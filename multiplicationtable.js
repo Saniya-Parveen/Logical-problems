@@ -7,5 +7,5 @@ function multiplicationTable(num){
 
     }
 }
-const num= 2;
+const num= 3;
 multiplicationTable(num);
