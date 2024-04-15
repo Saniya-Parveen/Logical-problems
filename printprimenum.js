@@ -6,7 +6,7 @@ function printPrimeNumber(num){
         let isPrime = true;
         for(let j = 2; j<=Math.sqrt(i); j++){
             if(i % j===0){
-                let isPrime = false;
+                  isPrime = false;
                 break;
             }
         }
